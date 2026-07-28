@@ -1,0 +1,14 @@
+{
+  "name": "neurolink-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NeuroLink AI - Adaptive Learning Twin platform built with Vanilla HTML/CSS/JS and Bayesian Knowledge Tracing.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
