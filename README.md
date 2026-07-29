@@ -2,7 +2,7 @@
 
 NeuroLink AI is an advanced, client-side adaptive learning twin platform that maps a student's cognitive state in real-time. By combining educational data science (**Bayesian Knowledge Tracing**) with generative AI (**Google Gemini API**), it detects knowledge gaps, catches misconceptions, and delivers personalized Socratic tutoring tailored to the student's learning style.
 
-🌐 **Live Demo:** [Deploying on Netlify](https://app.netlify.com/)
+🌐**Live Demo:** [Deploying on Netlify](https://app.netlify.com/)
 
 ---
 
@@ -20,7 +20,7 @@ NeuroLink AI is an advanced, client-side adaptive learning twin platform that ma
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Real-time Cognitive Modeling ("Learning Twin")**: Visualizes the student's conceptual understanding categorizing topics into *Strong*, *Developing*, and *Weak* areas.
 * **Metacognitive BKT Engine**: Calibrates topic mastery scores dynamically based on answer correctness combined with user confidence levels.
@@ -30,7 +30,7 @@ NeuroLink AI is an advanced, client-side adaptive learning twin platform that ma
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Frontend**: Vanilla HTML5, Vanilla CSS3 (Custom Glassmorphism theme, responsiveness), and ES6 JavaScript Modules.
 * **Build Tool & Dev Server**: Vite (v5.x) for fast local bundling and live-reloading.
@@ -39,7 +39,7 @@ NeuroLink AI is an advanced, client-side adaptive learning twin platform that ma
 
 ---
 
-## 🧠 How the AI/ML Works
+## How the AI/ML Works
 
 NeuroLink AI leverages two primary layers of artificial intelligence and cognitive science:
 
